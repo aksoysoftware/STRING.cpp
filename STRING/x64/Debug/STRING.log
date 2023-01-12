@@ -1,0 +1,3 @@
+﻿  STRING.cpp
+C:\Users\muham\source\repos\STRING\STRING\STRING.cpp(67,11): warning C4101: 'n': yerel değişken başvurusu kaldırıldı
+  STRING.vcxproj -> C:\Users\muham\source\repos\STRING\x64\Debug\STRING.exe
